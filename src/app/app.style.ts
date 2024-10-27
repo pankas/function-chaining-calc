@@ -6,19 +6,19 @@ import { createGlobalStyle } from "styled-components";
 export const AppStyles = createGlobalStyle`
 @font-face {
     font-family: 'Inter';
-    src: url('/fonts/Inter-Regular.woff2') format('woff2');
+    src: url('https://functionchaining.web.app/fonts/Inter-Regular.woff2') format('woff2');
     font-weight: 400;
     font-style: normal;
   }
   @font-face {
     font-family: 'Inter';
-    src: url('/fonts/Inter-Bold.woff2') format('woff2');
+    src: url('https://functionchaining.web.app/fonts/Inter-Bold.woff2') format('woff2');
     font-weight: 700;
     font-style: normal;
   }
   @font-face {
     font-family: 'Inter';
-    src: url('/fonts/Inter-Italic.woff2') format('woff2');
+    src: url('https://functionchaining.web.app/fonts/Inter-Italic.woff2') format('woff2');
     font-weight: 400;
     font-style: italic;
   }
